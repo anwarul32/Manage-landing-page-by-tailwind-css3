@@ -1,0 +1,7 @@
+{
+    // Theme
+  "workbench.colorTheme": "Material Theme",
+  "editor.fontFamily": "'cascadia code',Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+}
